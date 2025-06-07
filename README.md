@@ -54,3 +54,40 @@ secureEncrypt(data, key) -> encryptedData
 qif (isEntangled(key, data)) {
     qlet recovery = measure(data)
 }
+```
+
+# 🛠️ Use Cases
+## AI-run research agents
+
+Quantum cryptographic workflows
+
+AGI-safe systems
+
+Fully autonomous IoT logic across hybrid systems
+
+# 📚 Philosophy
+Quasmo is not just a language—it’s a shift in how intelligence is expressed:
+
+Code becomes intention.
+
+Execution becomes collaboration.
+
+Programs become entities.
+
+# 🧠 Roadmap
+ Language grammar spec
+
+ Compiler (QVM + AI AST pipeline)
+
+ AI co-coder engine
+
+ First use-case: decentralized medical agent
+
+# 🤝 Contribution
+We're building the future, and the future is multi-intelligent.
+Join the vision.
+
+“The best way to predict the future is to code it.”
+
+License
+MIT (for now—subject to time-loop adjustments 🌀)
